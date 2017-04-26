@@ -38,7 +38,7 @@ linkedin: renan-augusto-roncarati-miranda-821140ab
 #youtube: renanroncarati
 #spotify: renanroncarati
 github: renanroncarati
-#stackoverflow: 99999/renanroncarati
+stackoverflow: 35838/renanroncarati
 #medium: renanroncarati
 #vimeo: myvimeo
 email: renanroncarati@gmail.com
@@ -64,7 +64,7 @@ width: normal
 projects: false
 
 # if you don't need "about" or "blog", comment them out below
-about: false
+about: true
 blog: false
 
 # do you want to show the "read time" of the posts?
