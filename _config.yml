@@ -1,55 +1,55 @@
 # main text of home
-name: Rafael Pacheco
-bio: I'm trying to do a better world beyond code
+name: Renan Roncarati
+bio: Passionate developer; Love to help developers to realize their tasks and acquire new dev knowledge, for a more productive day.
 
 # twitter summary info
-description: I love all about code. I'm fullstack developer and tech lead on @Takenet. Reactive programmer enthusiast and Akka develop BH meetup organizer. 
+description: I love all about code. I'm backend developer on @Take.net.
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
 picture: assets/images/profile.jpg
 
-url: http://ravpacheco.com
+url: http://renanroncarati.github.io
 # your url: http://USERNAME.github.io
-real-url: ravpacheco.com
+real-url: renanroncarati.github.io
 permalink: /:title/
 
 markdown: kramdown
 highlighter: rouge
 
 # To enable google analytics, supply your token below
-analytics-google: 'UA-62025300-1'
+#analytics-google: 'UA-62025300-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-disqus: ravpacheco
+disqus: false
 
 # if you don't have any of social below, comment the line
-facebook: ravpacheco
-twitter: ravpachecco
-google: RafaelPachecoBH
-instagram: ravpachecco
+#facebook: renanroncarati
+twitter: renanroncarati
+#google: renanroncarati
+instagram: renanroncarati
 # pinterest: mypinterest
-linkedin: ravpacheco
-youtube: ravpacheco
-spotify: ravpacheco
-github: ravpacheco
-stackoverflow: 3613766/rafael-pacheco
-medium: ravpacheco
+linkedin: renan-augusto-roncarati-miranda-821140ab
+#youtube: renanroncarati
+#spotify: renanroncarati
+github: renanroncarati
+#stackoverflow: 99999/renanroncarati
+#medium: renanroncarati
 #vimeo: myvimeo
-email: ravpacheco@gmail.com
+email: renanroncarati@gmail.com
 
 authors:
-    ravpacheco:
-        name: Rafael Pacheco
+    renanroncarati:
+        name: Renan Roncarati
         bio: Just another guy that learn all the days
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: ravpachecco
+        twitter: renanroncarati
     
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -61,11 +61,11 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
-about: true
-blog: true
+about: false
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true

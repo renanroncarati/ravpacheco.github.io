@@ -6,7 +6,7 @@ ref: about
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>My name is Rafael Avelar Pacheco. I'm a programmer, researcher and soccer player on weekend. 
+<p>My name is Renan Roncarati. I'm a programmer, researcher and soccer player on weekend. 
 I'm master on Mathematical and Computational Modelling and graduated on Computer Engineering on CEFET-MG.  
 I work as a fullstack developer and technical lead on <a href="http://take.net">@take. I'm also a member of 
 <a href="http://www.lsi.cefetmg.br/">Laboratory of Inteligent Systems</a>, CEFET-MG.
@@ -22,7 +22,7 @@ I'm on Google+, Twitter, Facebook, LinkedIn, Instagram, YouTube, Spotify, GitHub
 I also have a chatbot (<a href="http://ravpacheco.com/bot">click here</a> if you don't know what is a chatbot) that knows a little bit about me. 
 I would love if you would try talk with one of them on Messenger, Telegram, Skype or Blip App.
 
-But, if you just want to email me, go ahead send an email to ravpacheco@gmail.com ;)
+But, if you just want to email me, go ahead send an email to renanroncarati@gmail.com ;)
  
 <h2>But why <b>ravpacheco</b>?</h2>
 
