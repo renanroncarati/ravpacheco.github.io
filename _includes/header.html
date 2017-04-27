@@ -31,13 +31,14 @@
 <script src="https://unpkg.com/blip-sdk-web" type="text/javascript"></script>
 <script>
   (function () {
+	window.onload = function () {
+		var options = {
+			title: 'My chatbot is underconstruction :)',
+		};
 
-    var options = {
-        title: 'My chatbot is underconstruction :)',
-    };
-
-    new BlipWebSDK.ChatBuilder()
-      .withApiKey('fc507ac6-6c90-4154-9e43-94fdbadf075a')
-      .build(options);
+		new BlipWebSDK.ChatBuilder()
+		  .withApiKey('fc507ac6-6c90-4154-9e43-94fdbadf075a')
+		  .build(options);
+	  }
   })();
 </script>
