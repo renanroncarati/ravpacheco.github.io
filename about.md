@@ -16,7 +16,7 @@ I am also starting to live in the chatbots world, trying to use cognitive servic
 <a href="https://blip.ai">Blip.ai</a>, Messenger, Telegram, Microsoft QnA....</p>
 <p>My work, is inspired by creating software solutions to automate work or build effective integrations and also reliable software. I have a great ability to work
 with teams, automating work for a more productive day and also helping the team delivery fast. Working since 2010 with multiple contexts at same time and pressure.
-My Dilema is "Delivering fast and bug free softwares".</p>
+My Dilema is "Delivering fast and bug free softwares", but We know that the second part of the afirmative is not true hehe!</p>
 <p>Always working in agile teams.</p>    
 <p>
 If you would subscribe my blog use this <a href="http://renanroncarati.github.io/feed.xml">RSS</a> feed. 
