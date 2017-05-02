@@ -67,6 +67,12 @@ projects: true
 about: true
 blog: false
 
+# If you want to include your resume, set to true
+# and specify source (external or local).
+resume: true
+resume-external: true
+resume-url: https://drive.google.com/open?id=0B9mD-ayxRytuTDRSQThTRTJ6WE0
+
 # do you want to show the "read time" of the posts?
 read-time: true
 
