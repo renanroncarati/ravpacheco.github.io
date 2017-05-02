@@ -1,3 +1,4 @@
+<p align="left">This is the Waffle.io iron badge. Follow here the issues.</p>
 [![Stories in Ready](https://badge.waffle.io/renanroncarati/renanroncarati.github.io.png?label=ready&title=Ready)](http://waffle.io/renanroncarati/renanroncarati.github.io)
 
 <p align="center">
