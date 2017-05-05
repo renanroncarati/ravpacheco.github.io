@@ -30,7 +30,7 @@ To start "The Great Developer Journey" I think I need to contribute more, to stu
 If your are interested in learning how to create your own blog - page, here is where I've started!
 
 1.  Starting with github pages course on udemy.com [Building Web Pages With GitHub Pages](https://www.udemy.com/github-pages "Building Web Pages With GitHub Pages")
-2.  Read the [Rafael Pacheco](ravpacheco.com) page, navigate through blog posts and start coding with [Jekyll Windows Configuration](http://ravpacheco.com/instalando-jekyll-no-windows/)
+2.  Read the [Rafael Pacheco](http://ravpacheco.com) page, navigate through blog posts and start coding with [Jekyll Windows Configuration](http://ravpacheco.com/instalando-jekyll-no-windows/)
 3.	Now it is important to read the father of [Indigo Theme](https://github.com/sergiokopplin/indigo) Mr Kopplin.
 4.  Prepare your localhost environment and start coding (or writing =D)
 
