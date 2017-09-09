@@ -71,7 +71,7 @@ blog: false
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://drive.google.com/open?id=0B9mD-ayxRytuTDRSQThTRTJ6WE0
+resume-url: https://drive.google.com/open?id=0B9mD-ayxRytuTGw1OXFnLXBONDQ
 
 # do you want to show the "read time" of the posts?
 read-time: true
